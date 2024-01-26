@@ -1,0 +1,551 @@
+[
+	{
+		"id": 1,
+		"ParentTribeA": "EPalTribeID::LazyDragon",
+		"ParentTribeB": "EPalTribeID::ElecCat",
+		"ChildCharacterID": "LazyDragon_Electric",
+		"Name": "パリピドン",
+		"ParentA": "ペコドン",
+		"ParentB": "ボルトラ"
+	},
+	{
+		"id": 2,
+		"ParentTribeA": "EPalTribeID::Baphomet",
+		"ParentTribeB": "EPalTribeID::GhostBeast",
+		"ChildCharacterID": "Baphomet_Dark",
+		"Name": "アビスゴート",
+		"ParentA": "ヘルゴート",
+		"ParentB": "ソルレイス"
+	},
+	{
+		"id": 3,
+		"ParentTribeA": "EPalTribeID::Bastet",
+		"ParentTribeB": "EPalTribeID::Penguin",
+		"ChildCharacterID": "Bastet_Ice",
+		"Name": "チルテト",
+		"ParentA": "ニャオテト",
+		"ParentB": "ペンタマ"
+	},
+	{
+		"id": 4,
+		"ParentTribeA": "EPalTribeID::BirdDragon",
+		"ParentTribeB": "EPalTribeID::IceFox",
+		"ChildCharacterID": "BirdDragon_Ice",
+		"Name": "シロカバネ",
+		"ParentA": "カバネドリ",
+		"ParentB": "フブキツネ"
+	},
+	{
+		"id": 5,
+		"ParentTribeA": "EPalTribeID::Deer",
+		"ParentTribeB": "EPalTribeID::WindChimes",
+		"ChildCharacterID": "Deer_Ground",
+		"Name": "ヤマガミ",
+		"ParentA": "ツノガミ",
+		"ParentB": "シメナワ"
+	},
+	{
+		"id": 6,
+		"ParentTribeA": "EPalTribeID::FairyDragon",
+		"ParentTribeB": "EPalTribeID::Serpent",
+		"ChildCharacterID": "FairyDragon_Water",
+		"Name": "シルティア",
+		"ParentA": "シルフィア",
+		"ParentB": "シーペント"
+	},
+	{
+		"id": 7,
+		"ParentTribeA": "EPalTribeID::FireKirin",
+		"ParentTribeB": "EPalTribeID::CatMage",
+		"ChildCharacterID": "FireKirin_Dark",
+		"Name": "サラブラック",
+		"ParentA": "サラブレイズ",
+		"ParentB": "クレメーオ"
+	},
+	{
+		"id": 8,
+		"ParentTribeA": "EPalTribeID::GrassMammoth",
+		"ParentTribeB": "EPalTribeID::Yeti",
+		"ChildCharacterID": "GrassMammoth_Ice",
+		"Name": "ブリザモス",
+		"ParentA": "グランモス",
+		"ParentB": "ヒエティ"
+	},
+	{
+		"id": 9,
+		"ParentTribeA": "EPalTribeID::GrassPanda",
+		"ParentTribeB": "EPalTribeID::ElecPanda",
+		"ChildCharacterID": "GrassPanda_Electric",
+		"Name": "ライゾー",
+		"ParentA": "ササゾー",
+		"ParentB": "エレパンダ"
+	},
+	{
+		"id": 10,
+		"ParentTribeA": "EPalTribeID::FlowerDinosaur",
+		"ParentTribeB": "EPalTribeID::ThunderDog",
+		"ChildCharacterID": "FlowerDinosaur_Electric",
+		"Name": "ビリビリュー",
+		"ParentA": "アロアリュー",
+		"ParentB": "イヌズマ"
+	},
+	{
+		"id": 11,
+		"ParentTribeA": "EPalTribeID::Hedgehog",
+		"ParentTribeB": "EPalTribeID::Penguin",
+		"ChildCharacterID": "Hedgehog_Ice",
+		"Name": "コチグリ",
+		"ParentA": "パチグリ",
+		"ParentB": "ペンタマ"
+	},
+	{
+		"id": 12,
+		"ParentTribeA": "EPalTribeID::IceHorse",
+		"ParentTribeB": "EPalTribeID::HadesBird",
+		"ChildCharacterID": "IceHorse_Dark",
+		"Name": "グレイシャドウ",
+		"ParentA": "グレイシャル",
+		"ParentB": "ヘルカルダ"
+	},
+	{
+		"id": 13,
+		"ParentTribeA": "EPalTribeID::KingAlpaca",
+		"ParentTribeB": "EPalTribeID::IceDeer",
+		"ChildCharacterID": "KingAlpaca_Ice",
+		"Name": "アルパオー（亜種）",
+		"ParentA": "アルパオー",
+		"ParentB": "ツララジカ"
+	},
+	{
+		"id": 14,
+		"ParentTribeA": "EPalTribeID::LilyQueen",
+		"ParentTribeB": "EPalTribeID::DarkScorpion",
+		"ChildCharacterID": "LilyQueen_Dark",
+		"Name": "ルナクイン",
+		"ParentA": "リリクイン",
+		"ParentB": "デスティング"
+	},
+	{
+		"id": 15,
+		"ParentTribeA": "EPalTribeID::LizardMan",
+		"ParentTribeB": "EPalTribeID::LavaGirl",
+		"ChildCharacterID": "LizardMan_Fire",
+		"Name": "チリザード",
+		"ParentA": "ダリザード",
+		"ParentB": "ラヴィ"
+	},
+	{
+		"id": 16,
+		"ParentTribeA": "EPalTribeID::Manticore",
+		"ParentTribeB": "EPalTribeID::CatVampire",
+		"ChildCharacterID": "Manticore_Dark",
+		"Name": "シンエンオ",
+		"ParentA": "ゴクエンオ",
+		"ParentB": "ヤミトバリ"
+	},
+	{
+		"id": 17,
+		"ParentTribeA": "EPalTribeID::RobinHood",
+		"ParentTribeB": "EPalTribeID::CuteMole",
+		"ChildCharacterID": "RobinHood_Ground",
+		"Name": "サンドロ",
+		"ParentA": "フェザーロ",
+		"ParentB": "モグルン"
+	},
+	{
+		"id": 18,
+		"ParentTribeA": "EPalTribeID::SakuraSaurus",
+		"ParentTribeB": "EPalTribeID::Blueplatypus",
+		"ChildCharacterID": "SakuraSaurus_Water",
+		"Name": "スプラドン",
+		"ParentA": "ラブラドン",
+		"ParentB": "カモノスケ"
+	},
+	{
+		"id": 19,
+		"ParentTribeA": "EPalTribeID::Serpent",
+		"ParentTribeB": "EPalTribeID::LazyCatfish",
+		"ChildCharacterID": "Serpent_Ground",
+		"Name": "スナペント",
+		"ParentA": "シーペント",
+		"ParentB": "トドドドン"
+	},
+	{
+		"id": 20,
+		"ParentTribeA": "EPalTribeID::SharkKid",
+		"ParentTribeB": "EPalTribeID::FlameBambi",
+		"ChildCharacterID": "SharkKid_Fire",
+		"Name": "シャーマンダー",
+		"ParentA": "シャーキッド",
+		"ParentB": "ヒノコジカ"
+	},
+	{
+		"id": 21,
+		"ParentTribeA": "EPalTribeID::Suzaku",
+		"ParentTribeB": "EPalTribeID::Umihebi",
+		"ChildCharacterID": "Suzaku_Water",
+		"Name": "シヴァ",
+		"ParentA": "スザク",
+		"ParentB": "レヴィドラ"
+	},
+	{
+		"id": 22,
+		"ParentTribeA": "EPalTribeID::VolcanicMonster",
+		"ParentTribeB": "EPalTribeID::IceFox",
+		"ChildCharacterID": "VolcanicMonster_Ice",
+		"Name": "フロスカノン",
+		"ParentA": "ボルカノン",
+		"ParentB": "フブキツネ"
+	},
+	{
+		"id": 23,
+		"ParentTribeA": "EPalTribeID::WindChimes",
+		"ParentTribeB": "EPalTribeID::MopBaby",
+		"ChildCharacterID": "WindChimes_Ice",
+		"Name": "シメナワ（亜種）",
+		"ParentA": "シメナワ",
+		"ParentB": "コモップ"
+	},
+	{
+		"id": 24,
+		"ParentTribeA": "EPalTribeID::IceHorse",
+		"ParentTribeB": "EPalTribeID::IceHorse",
+		"ChildCharacterID": "IceHorse",
+		"Name": "グレイシャル",
+		"ParentA": "グレイシャル",
+		"ParentB": "グレイシャル"
+	},
+	{
+		"id": 25,
+		"ParentTribeA": "EPalTribeID::JetDragon",
+		"ParentTribeB": "EPalTribeID::JetDragon",
+		"ChildCharacterID": "JetDragon",
+		"Name": "ジェッドラン",
+		"ParentA": "ジェッドラン",
+		"ParentB": "ジェッドラン"
+	},
+	{
+		"id": 26,
+		"ParentTribeA": "EPalTribeID::SaintCentaur",
+		"ParentTribeB": "EPalTribeID::SaintCentaur",
+		"ChildCharacterID": "SaintCentaur",
+		"Name": "セイントール",
+		"ParentA": "セイントール",
+		"ParentB": "セイントール"
+	},
+	{
+		"id": 27,
+		"ParentTribeA": "EPalTribeID::BlackCentaur",
+		"ParentTribeB": "EPalTribeID::BlackCentaur",
+		"ChildCharacterID": "BlackCentaur",
+		"Name": "ベイントール",
+		"ParentA": "ベイントール",
+		"ParentB": "ベイントール"
+	},
+	{
+		"id": 28,
+		"ParentTribeA": "EPalTribeID::GrassPanda",
+		"ParentTribeB": "EPalTribeID::FlowerDoll",
+		"ChildCharacterID": "LilyQueen",
+		"Name": "リリクイン",
+		"ParentA": "ササゾー",
+		"ParentB": "フラリーナ"
+	},
+	{
+		"id": 29,
+		"ParentTribeA": "EPalTribeID::BirdDragon",
+		"ParentTribeB": "EPalTribeID::Anubis",
+		"ChildCharacterID": "Horus",
+		"Name": "ホルス",
+		"ParentA": "カバネドリ",
+		"ParentB": "アヌビス"
+	},
+	{
+		"id": 30,
+		"ParentTribeA": "EPalTribeID::GrassPanda",
+		"ParentTribeB": "EPalTribeID::ThunderDog",
+		"ChildCharacterID": "ElecPanda",
+		"Name": "エレパンダ",
+		"ParentA": "ササゾー",
+		"ParentB": "イヌズマ"
+	},
+	{
+		"id": 31,
+		"ParentTribeA": "EPalTribeID::ElecPanda",
+		"ParentTribeB": "EPalTribeID::LazyDragon",
+		"ChildCharacterID": "ThunderDragonMan",
+		"Name": "ボルゼクス",
+		"ParentA": "エレパンダ",
+		"ParentB": "ペコドン"
+	},
+	{
+		"id": 32,
+		"ParentTribeA": "EPalTribeID::AmaterasuWolf",
+		"ParentTribeB": "EPalTribeID::BlackMetalDragon",
+		"ChildCharacterID": "BlackGriffon",
+		"Name": "ゼノグリフ",
+		"ParentA": "シラヌイ",
+		"ParentB": "ジオラーヴァ"
+	},
+	{
+		"id": 33,
+		"ParentTribeA": "EPalTribeID::LilyQueen",
+		"ParentTribeB": "EPalTribeID::LilyQueen",
+		"ChildCharacterID": "LilyQueen",
+		"Name": "リリクイン",
+		"ParentA": "リリクイン",
+		"ParentB": "リリクイン"
+	},
+	{
+		"id": 34,
+		"ParentTribeA": "EPalTribeID::Horus",
+		"ParentTribeB": "EPalTribeID::Horus",
+		"ChildCharacterID": "Horus",
+		"Name": "ホルス",
+		"ParentA": "ホルス",
+		"ParentB": "ホルス"
+	},
+	{
+		"id": 35,
+		"ParentTribeA": "EPalTribeID::ElecPanda",
+		"ParentTribeB": "EPalTribeID::ElecPanda",
+		"ChildCharacterID": "ElecPanda",
+		"Name": "エレパンダ",
+		"ParentA": "エレパンダ",
+		"ParentB": "エレパンダ"
+	},
+	{
+		"id": 36,
+		"ParentTribeA": "EPalTribeID::ThunderDragonMan",
+		"ParentTribeB": "EPalTribeID::ThunderDragonMan",
+		"ChildCharacterID": "ThunderDragonMan",
+		"Name": "ボルゼクス",
+		"ParentA": "ボルゼクス",
+		"ParentB": "ボルゼクス"
+	},
+	{
+		"id": 37,
+		"ParentTribeA": "EPalTribeID::BlackGriffon",
+		"ParentTribeB": "EPalTribeID::BlackGriffon",
+		"ChildCharacterID": "BlackGriffon",
+		"Name": "ゼノグリフ",
+		"ParentA": "ゼノグリフ",
+		"ParentB": "ゼノグリフ"
+	},
+	{
+		"id": 38,
+		"ParentTribeA": "EPalTribeID::Umihebi_Fire",
+		"ParentTribeB": "EPalTribeID::Umihebi_Fire",
+		"ChildCharacterID": "Umihebi_Fire",
+		"Name": "アグニドラ",
+		"ParentA": "アグニドラ",
+		"ParentB": "アグニドラ"
+	},
+	{
+		"id": 39,
+		"ParentTribeA": "EPalTribeID::LazyDragon_Electric",
+		"ParentTribeB": "EPalTribeID::LazyDragon_Electric",
+		"ChildCharacterID": "LazyDragon_Electric",
+		"Name": "パリピドン",
+		"ParentA": "パリピドン",
+		"ParentB": "パリピドン"
+	},
+	{
+		"id": 40,
+		"ParentTribeA": "EPalTribeID::Baphomet_Dark",
+		"ParentTribeB": "EPalTribeID::Baphomet_Dark",
+		"ChildCharacterID": "Baphomet_Dark",
+		"Name": "アビスゴート",
+		"ParentA": "アビスゴート",
+		"ParentB": "アビスゴート"
+	},
+	{
+		"id": 41,
+		"ParentTribeA": "EPalTribeID::Bastet_Ice",
+		"ParentTribeB": "EPalTribeID::Bastet_Ice",
+		"ChildCharacterID": "Bastet_Ice",
+		"Name": "チルテト",
+		"ParentA": "チルテト",
+		"ParentB": "チルテト"
+	},
+	{
+		"id": 42,
+		"ParentTribeA": "EPalTribeID::BirdDragon_Ice",
+		"ParentTribeB": "EPalTribeID::BirdDragon_Ice",
+		"ChildCharacterID": "BirdDragon_Ice",
+		"Name": "シロカバネ",
+		"ParentA": "シロカバネ",
+		"ParentB": "シロカバネ"
+	},
+	{
+		"id": 43,
+		"ParentTribeA": "EPalTribeID::Deer_Ground",
+		"ParentTribeB": "EPalTribeID::Deer_Ground",
+		"ChildCharacterID": "Deer_Ground",
+		"Name": "ヤマガミ",
+		"ParentA": "ヤマガミ",
+		"ParentB": "ヤマガミ"
+	},
+	{
+		"id": 44,
+		"ParentTribeA": "EPalTribeID::FairyDragon_Water",
+		"ParentTribeB": "EPalTribeID::FairyDragon_Water",
+		"ChildCharacterID": "FairyDragon_Water",
+		"Name": "シルティア",
+		"ParentA": "シルティア",
+		"ParentB": "シルティア"
+	},
+	{
+		"id": 45,
+		"ParentTribeA": "EPalTribeID::FireKirin_Dark",
+		"ParentTribeB": "EPalTribeID::FireKirin_Dark",
+		"ChildCharacterID": "FireKirin_Dark",
+		"Name": "サラブラック",
+		"ParentA": "サラブラック",
+		"ParentB": "サラブラック"
+	},
+	{
+		"id": 46,
+		"ParentTribeA": "EPalTribeID::GrassMammoth_Ice",
+		"ParentTribeB": "EPalTribeID::GrassMammoth_Ice",
+		"ChildCharacterID": "GrassMammoth_Ice",
+		"Name": "ブリザモス",
+		"ParentA": "ブリザモス",
+		"ParentB": "ブリザモス"
+	},
+	{
+		"id": 47,
+		"ParentTribeA": "EPalTribeID::GrassPanda_Electric",
+		"ParentTribeB": "EPalTribeID::GrassPanda_Electric",
+		"ChildCharacterID": "GrassPanda_Electric",
+		"Name": "ライゾー",
+		"ParentA": "ライゾー",
+		"ParentB": "ライゾー"
+	},
+	{
+		"id": 48,
+		"ParentTribeA": "EPalTribeID::FlowerDinosaur_Electric",
+		"ParentTribeB": "EPalTribeID::FlowerDinosaur_Electric",
+		"ChildCharacterID": "FlowerDinosaur_Electric",
+		"Name": "ビリビリュー",
+		"ParentA": "ビリビリュー",
+		"ParentB": "ビリビリュー"
+	},
+	{
+		"id": 49,
+		"ParentTribeA": "EPalTribeID::Hedgehog_Ice",
+		"ParentTribeB": "EPalTribeID::Hedgehog_Ice",
+		"ChildCharacterID": "Hedgehog_Ice",
+		"Name": "コチグリ",
+		"ParentA": "コチグリ",
+		"ParentB": "コチグリ"
+	},
+	{
+		"id": 50,
+		"ParentTribeA": "EPalTribeID::IceHorse_Dark",
+		"ParentTribeB": "EPalTribeID::IceHorse_Dark",
+		"ChildCharacterID": "IceHorse_Dark",
+		"Name": "グレイシャドウ",
+		"ParentA": "グレイシャドウ",
+		"ParentB": "グレイシャドウ"
+	},
+	{
+		"id": 51,
+		"ParentTribeA": "EPalTribeID::KingAlpaca_Ice",
+		"ParentTribeB": "EPalTribeID::KingAlpaca_Ice",
+		"ChildCharacterID": "KingAlpaca_Ice",
+		"Name": "アルパオー（亜種）",
+		"ParentA": "アルパオー（亜種）",
+		"ParentB": "アルパオー（亜種）"
+	},
+	{
+		"id": 52,
+		"ParentTribeA": "EPalTribeID::LilyQueen_Dark",
+		"ParentTribeB": "EPalTribeID::LilyQueen_Dark",
+		"ChildCharacterID": "LilyQueen_Dark",
+		"Name": "ルナクイン",
+		"ParentA": "ルナクイン",
+		"ParentB": "ルナクイン"
+	},
+	{
+		"id": 53,
+		"ParentTribeA": "EPalTribeID::LizardMan_Fire",
+		"ParentTribeB": "EPalTribeID::LizardMan_Fire",
+		"ChildCharacterID": "LizardMan_Fire",
+		"Name": "チリザード",
+		"ParentA": "チリザード",
+		"ParentB": "チリザード"
+	},
+	{
+		"id": 54,
+		"ParentTribeA": "EPalTribeID::Manticore_Dark",
+		"ParentTribeB": "EPalTribeID::Manticore_Dark",
+		"ChildCharacterID": "Manticore_Dark",
+		"Name": "シンエンオ",
+		"ParentA": "シンエンオ",
+		"ParentB": "シンエンオ"
+	},
+	{
+		"id": 55,
+		"ParentTribeA": "EPalTribeID::RobinHood_Ground",
+		"ParentTribeB": "EPalTribeID::RobinHood_Ground",
+		"ChildCharacterID": "RobinHood_Ground",
+		"Name": "サンドロ",
+		"ParentA": "サンドロ",
+		"ParentB": "サンドロ"
+	},
+	{
+		"id": 56,
+		"ParentTribeA": "EPalTribeID::SakuraSaurus_Water",
+		"ParentTribeB": "EPalTribeID::SakuraSaurus_Water",
+		"ChildCharacterID": "SakuraSaurus_Water",
+		"Name": "スプラドン",
+		"ParentA": "スプラドン",
+		"ParentB": "スプラドン"
+	},
+	{
+		"id": 57,
+		"ParentTribeA": "EPalTribeID::Serpent_Ground",
+		"ParentTribeB": "EPalTribeID::Serpent_Ground",
+		"ChildCharacterID": "Serpent_Ground",
+		"Name": "スナペント",
+		"ParentA": "スナペント",
+		"ParentB": "スナペント"
+	},
+	{
+		"id": 58,
+		"ParentTribeA": "EPalTribeID::SharkKid_Fire",
+		"ParentTribeB": "EPalTribeID::SharkKid_Fire",
+		"ChildCharacterID": "SharkKid_Fire",
+		"Name": "シャーマンダー",
+		"ParentA": "シャーマンダー",
+		"ParentB": "シャーマンダー"
+	},
+	{
+		"id": 59,
+		"ParentTribeA": "EPalTribeID::Suzaku_Water",
+		"ParentTribeB": "EPalTribeID::Suzaku_Water",
+		"ChildCharacterID": "Suzaku_Water",
+		"Name": "シヴァ",
+		"ParentA": "シヴァ",
+		"ParentB": "シヴァ"
+	},
+	{
+		"id": 60,
+		"ParentTribeA": "EPalTribeID::VolcanicMonster_Ice",
+		"ParentTribeB": "EPalTribeID::VolcanicMonster_Ice",
+		"ChildCharacterID": "VolcanicMonster_Ice",
+		"Name": "フロスカノン",
+		"ParentA": "フロスカノン",
+		"ParentB": "フロスカノン"
+	},
+	{
+		"id": 61,
+		"ParentTribeA": "EPalTribeID::WindChimes_Ice",
+		"ParentTribeB": "EPalTribeID::WindChimes_Ice",
+		"ChildCharacterID": "WindChimes_Ice",
+		"Name": "シメナワ（亜種）",
+		"ParentA": "シメナワ（亜種）",
+		"ParentB": "シメナワ（亜種）"
+	}
+]
